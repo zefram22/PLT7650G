@@ -1,0 +1,102 @@
+[submodule "rk/RKDocs"]
+	path = rk/RKDocs
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/RKTools"]
+	path = rk/RKTools
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/device/rockchip/rk312x"]
+	path = rk/device/rockchip/rk312x
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/device/rockchip/rksdk"]
+	path = rk/device/rockchip/rksdk
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/hardware/rk29/audio"]
+	path = rk/hardware/rk29/audio
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/hardware/rk29/camera"]
+	path = rk/hardware/rk29/camera
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/hardware/rk29/gps"]
+	path = rk/hardware/rk29/gps
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/hardware/rk29/hwcomposer_rga"]
+	path = rk/hardware/rk29/hwcomposer_rga
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/hardware/rk29/jpeghw"]
+	path = rk/hardware/rk29/jpeghw
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/hardware/rk29/libgralloc_ump"]
+	path = rk/hardware/rk29/libgralloc_ump
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/hardware/rk29/libiep"]
+	path = rk/hardware/rk29/libiep
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/hardware/rk29/libkeymaster"]
+	path = rk/hardware/rk29/libkeymaster
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/hardware/rk29/liblights"]
+	path = rk/hardware/rk29/liblights
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/hardware/rk29/libmemtrack"]
+	path = rk/hardware/rk29/libmemtrack
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/hardware/rk29/librkvpu"]
+	path = rk/hardware/rk29/librkvpu
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/hardware/rk29/mobicore"]
+	path = rk/hardware/rk29/mobicore
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/hardware/rk29/power"]
+	path = rk/hardware/rk29/power
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/hardware/rk29/sensor"]
+	path = rk/hardware/rk29/sensor
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/kernel"]
+	path = rk/kernel
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/platform/external/ffmpeg"]
+	path = rk/platform/external/ffmpeg
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/platform/external/io"]
+	path = rk/platform/external/io
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/platform/external/mac"]
+	path = rk/platform/external/mac
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/platform/external/mmc-utils"]
+	path = rk/platform/external/mmc-utils
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/platform/external/ntfs-3g"]
+	path = rk/platform/external/ntfs-3g
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/platform/external/rk-pcba-test"]
+	path = rk/platform/external/rk-pcba-test
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/platform/external/rp-pppoe"]
+	path = rk/platform/external/rp-pppoe
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/platform/external/wlan_loader"]
+	path = rk/platform/external/wlan_loader
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/platform/hardware/broadcom/nfc"]
+	path = rk/platform/hardware/broadcom/nfc
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/platform/packages/apps/Bluetooth_bplus"]
+	path = rk/platform/packages/apps/Bluetooth_bplus
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/platform/vendor/google"]
+	path = rk/platform/vendor/google
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/platform/vendor/rockchip/common"]
+	path = rk/platform/vendor/rockchip/common
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/platform/vendor/widevine"]
+	path = rk/platform/vendor/widevine
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/rkst"]
+	path = rk/rkst
+	url = https://github.com/zefram22/PLT7650G
+[submodule "rk/u-boot"]
+	path = rk/u-boot
+	url = https://github.com/zefram22/PLT7650G
